@@ -43,7 +43,7 @@ OPT 可选项
 
 1. hydra -l user -p 密码字典 ip -s port http-post-form "/:password=^PASS^:Invalid password"
 
-![hydra](.\1.png)
+![](1.png)
 
 #### mysql破解
 
