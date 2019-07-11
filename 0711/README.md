@@ -71,7 +71,7 @@ file_exists($filename);
 ?>
 ```
 
-![6](6.png)
+![](6.png)
 
 目前受影响的函数如下
 
@@ -172,7 +172,7 @@ $phar->stopBuffering();
 
 可以看到上传成功，来到file_un.php页面，用phar://协议，进行反序列化：
 
-![8](D:\git\Git\dw\0711\8.png)
+![](8.png)
 
 可以看到，成功执行。
 
